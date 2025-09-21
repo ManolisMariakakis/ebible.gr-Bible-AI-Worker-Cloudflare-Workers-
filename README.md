@@ -424,4 +424,4 @@ enabled = true
 
 ## License
 
-MIT License. See `LICENSE`.
+GNU General Public License v3.0. See `LICENSE`.
